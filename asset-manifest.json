@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "/kta-test/static/js/main.dd1f4a3e.js",
+    "main.js": "/kta-test/static/js/main.db6427c0.js",
     "static/js/377.c1855308.chunk.js": "/kta-test/static/js/377.c1855308.chunk.js",
     "static/media/Cropped.jpg": "/kta-test/static/media/Cropped.dc96a0413a2002d74f09.jpg",
     "static/media/Timeline.png": "/kta-test/static/media/Timeline.e93ee5686f1becc41dd6.png",
     "index.html": "/kta-test/index.html",
-    "main.dd1f4a3e.js.map": "/kta-test/static/js/main.dd1f4a3e.js.map",
+    "main.db6427c0.js.map": "/kta-test/static/js/main.db6427c0.js.map",
     "377.c1855308.chunk.js.map": "/kta-test/static/js/377.c1855308.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.dd1f4a3e.js"
+    "static/js/main.db6427c0.js"
   ]
 }
